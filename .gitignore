@@ -10,6 +10,13 @@ Thumbs.db
 *.swp
 *~
 
+# rest2web files
+rest2web/
+log.txt
+r2w.log
+r2w.py
+*.pyc
+
 # local directories
 template-rrze/
 website/

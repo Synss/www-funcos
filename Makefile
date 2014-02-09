@@ -17,6 +17,12 @@ download_template:
 		| tar -s/www.defaultwebauftritt.uni-erlangen.de//g \
 		-zxC $(TEMPLATE_ROOT)
 
+download_rest2web:
+	-rm -r rest2web 2>/dev/null
+	curl -L http://sourceforge.net/projects/rest2web/files/rest2web/0.5.1/rest2web-0.5.1.tar.gz/download \
+		| tar -s/-0.5.1//g -zx
+	ln -s rest2web/r2w.py .
+
 install_template:
 	-rm -r $(LOCAL_ROOT) 2>/dev/null
 	cp -R $(TEMPLATE_ROOT) $(LOCAL_ROOT)
@@ -39,6 +45,8 @@ install_template:
 	$(SED) -i \
 		-e '/^[[:blank:]]*'"'"'UseNavigationCache'"'"'/ s/1/0/' \
 		$(LOCAL_CGI)/navigation/Navigation.pm
+
+init: download_template download_rest2web
 
 build: install_template
 
