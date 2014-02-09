@@ -9,3 +9,7 @@ Thumbs.db
 # vi files
 *.swp
 *~
+
+# local directories
+template-rrze/
+website/

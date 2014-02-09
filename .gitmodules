@@ -1,0 +1,6 @@
+[submodule "univis-rrze"]
+	path = univis-rrze
+	url = https://github.com/RRZE-Webteam/UnivIS-Website-Import.git
+[submodule "calendar-rrze"]
+	path = calendar-rrze
+	url = https://github.com/RRZE-Webteam/Kalender.git
