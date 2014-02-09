@@ -1,0 +1,161 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Growth and Self-Organization
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+- Project leader A: `Andreas Magerl <../people.shtml>`_
+- Project leader B: `Rainer Fink <../people.shtml>`_
+
+
+{img;../img/funcos4.png;right}  {funcos} 4 focuses on structural aspects of
+organic adlayers and nanostructures including their correlations with the oxide
+substrate.  We will take advantage of the strong expertise at the {acro;FAU} in
+x ray and neutron diffraction in surface sensitive modes to characterize
+adlayer structures and adsorption dynamics. Reflectometry and {acro;GID} focus
+on geometrical aspects including the full three-dimensional arrangement of the
+entire complex consisting of the substrate, the linker, and the functional
+molecule with accuracies in the sub-Ångstrom regime.  The diffraction methods
+will be complemented by direct imaging, spectroscopic, microscopic
+({acro;LEEM}), and microspectroscopic methods x ray ({acro;PEEM},
+micro-{acro;NEXAFS}).  The latter will reveal geometric and electronic features
+from the atomic and molecular to the nano- and mesoscale.  Spatially resolved
+{acro;NEXAFS} probes unoccupied orbitals and monitors molecule-substrate
+interactions with superior sensitivity.  Resonant {acro;XPS} and Resonant
+{acro;AES} applied to electronic relaxation processes in weakly bound molecules
+will elucidate their intermolecular and molecule–substrate interactions.
+
+
+Objectives
+----------
+
+{funcos} 4 aims at a deeper understanding of the basic processes in the
+formation of differently prepared organic thin films on various oxide surfaces
+(single crystal substrates,  nanostructured oxides, amorphous substrates). 
+
+- This includes aspects of interactions, in particular the **interplay of
+  intermolecular interactions and molecule–substrate interactions**, which are
+  governing the growth of ultrathin organic films (perpendicular and lateral
+  structures, molecular orientation and tilt).
+- Utilizing probes, which offer information ranging from the atomic to the
+  mesoscopic length scale, the **structural properties of adsorbed organic
+  films** from the submonolayer to the multilayer regime can be accessed.
+- Diffraction techniques ({acro;XRD}/{acro;LEED}) deliver structural
+  information with accuracies better than 0.01 nm, and in-situ studies can make
+  the **film growth kinetics** visible.
+- Various microscopy techniques ({acro;PEEM}, {acro;STXM}, {acro;LEEM}) shall
+  be employed to provide the growth mode (layers, islands, or random growth)
+  and **film formation kinetics** in real space with resolutions on the
+  mesoscopic length scale, i.e., from lateral dimensions ranging from 20 to
+  10.000 nm.
+
+The project will bridge the gap from model systems prepared under ultrahigh
+vacuum conditions to molecular depositions from solvents thus offering
+potential pathways to prepare highly ordered molecular systems without costly
+hardware. 
+
+
+Systems and strategy
+--------------------
+
+The systems under investigation will focus on the {funcos} toolbox with
+particular emphasis on metalloporphyrin systems (preferably Mg, Co and Pt metal
+centers) with functional ligands. For the study of self-assembled monolayers
+using tetraphenyl porphyrin frameworks ({acro;POR-SAM}s) in particular -OH and
+-COOH linker groups are considered promising candidates to form a covalent bond
+with the surface hydroxyl groups via separation of water resulting in a
+self-assembled monolayer [1]_.  As substrates we will use amorphous and single
+crystalline TiO\ :sub:`2` and MgO (amorphous substrates will be prepared in an
+in-project cooperation with R. Fink via sputtering techniques, single crystals
+will be acquired commercially.  Further, silicon-supported MgO nanocubes in the
+uncompressed phase and as textured coatings will be utilized as substrates.
+These will be prepared in `{funcos} 5`_.  The unique nanoscale structure which
+can be tuned by the nanocube size and the compression is expected to influence
+the {acro;POR-SAM} arrangement.  The boundaries between the nanocubes will
+provide a highly reactive surface compared to the nanocube planes, and the
+{acro;POR-SAM}s are expected to dock on in a highly correlated manner with
+these substrates.  The orientational distribution will be assessed by us via
+powder-, single crystal- and thin film x-ray techniques in close cooperation
+with `{funcos} 5`_.
+
+To monitor the film growth under {acro;UHV} conditions, ultrathin MgO films
+grown on Ag(100) substrates shall be used.  Again metalloporphyrins with planar
+and axial ligands will be employed.  To improve the spectroscopic contrast in
+electron spectroscopy (contrast in binding energy with respect to the MgO
+substrate) we favor metalloporphyrins with Co and Pt centers.  Deposition will
+be made using homemade Knudsen cells while the deposition is monitored by mass
+spectrometry and quartz microbalance or in-situ film growth (in {acro;PEEM}).    
+
+The structure of the {acro;SAM}s will be investigated first on our laboratory
+reflectometer, a new custom-modified D8-diffractometer with highly flexible
+x-ray optics including the options for Cu- and Mo-radiation.  The reflectivity
+mode shows the structure along the surface normal of the monolayer [2]_, and the
+{acro;GID} mode mirrors the lateral structure which represents the in-plane
+correlations [3]_.  These data will yield comprehensive information on the
+thickness, the electron density and the roughness along the surface normal as
+well as the lateral structure of the monolayer.  The resulting electron density
+profile will be chemically and geometrically interpreted to provide a model for
+the structure of the {acro;SAM}.  Particular interest lies in structural
+differences of the monolayer on the different oxide substrates.  Referring to
+other systems like alkanoles on sapphire epitaxial behavior is expected for the
+single crystalline substrates as the lateral structure of the monolayer is
+expected to correlate with well-defined bonding sites [4]_.  This is also
+expected to be the case for the MgO nanocube substrates as the boundary regions
+between the nanocubes are highly reactive compared to the nanocube planes.
+
+Interruption of the {acro;SAM} growth by taking substrates out off solution
+will yield information on the growth kinetics [5]_.  The evolution of the layer
+thickness in these ex-situ measurements of interrupted growth will further show
+the growth mode.  This information will be validated via complementary real
+space investigations such as {acro;AFM} (`{funcos} 1`_) and chemical
+spectroscopy (`{funcos} 3`_) providing insight in the chemical bonding
+mechanism.  In addition, our model from scattering data will be compared with
+theoretical considerations (`{funcos} 6`_).
+
+A further strategic aim of this project is to perform in-situ measurements of
+the formation of the surface coating in the reaction bath.  We have ample
+experience in building suitable sample environments.  The measurements will be
+done in part on our laboratory instrument already mentioned with Mo radiation
+where we can penetrate up 1 cm through the reaction liquid while still having a
+dynamic range of more than 7 orders of magnitude!  In addition to providing
+already valuable information, such data are highly desirable to prepare for and
+optimize measurements at synchrotron sources where high intensity instruments
+operating at shorter wavelengths are available.  The synchrotron data to be
+taken in reflectivity, {acro;GID} and {acro;GISAS} are expected to make the
+growth of {acro;POR-SAM}s under wet conditions visible in great detail [6]_.
+
+In-situ neutron reflectivity and grazing incident diffraction measurements of
+the growth of {acro;POR-SAM}s will complement whenever indicated the in-situ
+synchrotron data.  Neutrons have the virtue of a high sensitivity for organic
+molecules in particular when H/D isotopic marking is being applied [7]_.
+
+
+.. [1]  Killian, M. S.; Gnichwitz, J.-F.; Hirsch, A.; Schmuki, P.; Kunze, J.
+        *Langmuir* **2009**, 26, 3531–3538.
+.. [2]  Daillant, J.; Gibaud, A.
+        *Specular Reflectivity from Smooth and Rough Surfaces X-ray and Neutron
+        Reflectivity: Principles and Applications.*
+        In Springer Berlin, Heidelberg. **1999**; Vol. 58, pp 87–120.
+.. [3]  Sinha, S. K.
+        *J. Phys. III France* **1994**, 4, 1543-1557.
+.. [4]  Ocko, B. M.; Hlaing, H.; Jepsen, P. N.; Kewalramani, S.; Tkachenko, A.;
+        Pontoni, D.; Reichert, H.; Deutsch, M.
+        *Physical Review Letters* **2011**, 106, 137801.
+.. [5]  Mirji, S. A.
+        *Surface and Interface Analysis* **2006**, 38, 158–165.
+.. [6]  Roth, S. V.; Autenrieth, T.; Grubel, G.; Riekel, C.; Burghammer, M.;
+        Hengstler, R.; Schulz, L.; Muller-Buschbaum, P.
+        *Applied Physics Letters* **2007**, 91, 091915.
+.. [7]  Sinha, S. K.
+        *Physica B: Condensed Matter* **1991**, 173, 25–34.
+
+.. _`{funcos} 1`: funcos1.shtml
+.. _`{funcos} 2`: funcos2.shtml
+.. _`{funcos} 3`: funcos3.shtml
+.. _`{funcos} 4`: funcos4.shtml
+.. _`{funcos} 5`: funcos5.shtml
+.. _`{funcos} 6`: funcos6.shtml
+

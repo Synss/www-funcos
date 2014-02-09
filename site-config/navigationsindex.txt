@@ -1,0 +1,17 @@
+.. vim: syn=xml:ts=4:listchars=tab\:→\ ,trail\:·:list:
+
+<navigation>
+	U	funCOS	index
+	A1  Research Program	program
+	A2  funCOS Projects	projects
+		A2-B1	funCOS1
+		A2-B2	funCOS2
+		A2-B3	funCOS3
+		A2-B4	funCOS4
+		A2-B5	funCOS5
+		A2-B6	funCOS6
+	A3  Toolboxes	toolboxes
+	A4  Molecular Toolbox Pool	pool
+	A5  People
+	A6  Calendar
+</navigation>

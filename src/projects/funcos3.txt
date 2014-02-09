@@ -1,0 +1,118 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Molecule–Oxide Bond Formation
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+- Project leader A: `Jörg Libuda <../people.shtml>`_
+- Project leader B: `Hans-Peter Steinrück <../people.shtml>`_
+- Project leader C: `Mathias Laurin <../people.shtml>`_
+
+
+{img;../img/funcos3.png;right}  {funcos} 3 will target at the elucidation of
+reaction mechanisms, kinetics, and energetics when functional molecules are
+(reactively) linked to oxide surfaces.  The chemistry of molecule–surface
+interactions will be studied by (time-resolved) {acro;IRAS} and {acro;XPS} in
+{acro;UHV}.  Information on molecular orientation, conformation, reaction
+mechanisms, and chemical transformations of molecules and linker groups will be
+made available.  Ideal oxides, nanostructured model surfaces (oxide/oxide and
+metal/oxide), and oxide nanostructures will be investigated to address
+selectivity issues and bridge the gap between simple and complex oxide
+interfaces elaborated in {funcos} 5.  Temperature-dependent {acro;XPS} and
+{acro;IRAS}, {acro;MB} methods and {acro;TPD} will provide information on the
+energetics and microkinetics.  These methods will also be used in explorative
+reactivity studies of oxide surfaces with organic layers.  Using
+{acro;PM}-{acro;IRAS}, {acro;DRIFTS}, and high-pressure {acro;XPS}, the pressure
+range from {acro;UHV} to ambient conditions will be covered on both single
+crystals and nanostructures. 
+
+
+Objectives
+----------
+
+In {funcos} 3, vibrational spectroscopy and photoelectron spectroscopy will be
+used to elucidate the elementary mechanisms, energetics, and kinetics of bond
+formation between functionalized organic molecules and oxide surfaces under
+{acro;UHV} conditions. Transferability to ambient conditions and to engineered
+nanomaterials will be simultaneously explored. We will address the following
+issues:
+
+- Resolve the **reaction mechanism upon transformation of selected functional
+  groups** attached to `{funcos} Test Molecules <../toolboxes.shtml>`_ during
+  bond formation at oxide surfaces.
+- Quantify the **energy of formation and the thermal stability** of the
+  surface-bound species.
+- Study the **usability of these anchors to link large functional molecules** to
+  oxide surfaces and control their molecular orientation and arrangement.
+- Investigate the concept of **multiple coordinations through chelating and
+  bifunctional linkers** and investigate the influence on molecular orientation,
+  formation barriers, and thermal stability of the surface-bound species.
+- Control the **site selectivity of surface-linking reactions**, i.e. the
+  potential to address specific surface sites by specific anchor groups on
+  nanostructured oxide surfaces exposing different sites.
+- Find the **role of reactive environments** by studying the influence of
+  reactants on the linking reactions and, vice versa, the influence of the
+  organic layer on the surface reactivity.
+
+
+Systems and strategy
+--------------------
+
+We will address the above questions in {acro;UHV}, primarily combining
+vibrational spectroscopy ({acro;IRAS}, including {acro;TR} {acro;IRAS}) and
+{acro;XPS} (including angle-resolved {acro;XPS} and high-resolution {acro;XPS}
+using synchrotron radiation).  Recently, the applicants have demonstrated the
+ideal complementarity of these techniques in relation to previous cooperation
+projects [1]_.  In brief, {acro;IRAS} provides unprecedented “chemical
+resolution” to differentiate between surface species, bonding geometries, and
+sites.  {acro;XPS} yields detailed information on the oxidation state and the
+chemical environment of the atoms of adsorbed species, also in cases where no
+information can be obtained from {acro;IRAS}.  In addition, we will apply
+{acro;TPD} and {acro;MB} methods, to address temperature-dependent reactivity.
+To link the {acro;UHV} model studies to “real world” applications, we will
+explore elevated and ambient pressures by {acro;PM}-{acro;IRAS} and, if
+required, {acro;HP}-{acro;XPS} as an additional high-pressure method.  Also, we
+will perform studies on engineered nanomaterials using in-situ {acro;DRIFTS}.
+
+By following a closely synchronized work program, synergies between the applied
+methods will be maximized.  We will start by studying ordered MgO(100) films on
+Ag(100) in the {acro;UHV} part, and in parallel compare to MgO nanocube powders
+provided by `{funcos} 5`_.  In the second project phase we will
+proceed to other oxide materials, i.e. Co\ :sub:`3`\ O\ :sub:`4`\ , and finally
+to TiO\ :sub:`2` surfaces.  In parallel, we will start to explore nanostructured
+oxide surfaces, e.g. defect structures, oxide nanoparticles, and metal
+nanoparticles supported on these oxides.
+
+.. Oxide Toolbox was mentioned above
+
+As representative selection of anchor groups (R) we will first explore -CN (soft
+Lewis base, polar), -OH (weak Brønsted acid), -COOH (strong Brønsted acid), and
+-NH\ :sub:`2` (Brønsted/Lewis base), and later proceed to other linkers
+depending on the obtained results. As test molecules we will start using benzene
+derivates, e.g.  C\ :sub:`6`\ H\ :sub:`5`\ R, where isotopically labeled C\
+:sub:`6`\ D\ :sub:`5`\ R will be chosen to optimize detection in {acro;IR} when
+required.  These test molecules will easily allow us to proceed to bifunctional
+and chelating linkers by investigation of doubly-substituted benzene derivates
+(C\ :sub:`6`\ H\ :sub:`4`\ R\ :sub:`2`, C\ :sub:`6`\ H\ :sub:`4`\ RR’).  From
+the results obtained, the most promising linkers will be selected and introduced
+as linking elements into functional units.  To this end, we will start by
+exploring 5,10,15,20-tetraphenylporphyrin (2HTPP) and its linker-substituted
+derivates.  The influence of molecule–oxide bond formation on the molecular
+orientation, film growth, film stability, and surface reactivity will be
+explored.
+
+
+.. [1]  Steinrück, H.-P.; Libuda, J.; Wasserscheid, P.; Cremer, T.; Kolbeck, C.;
+        Laurin, M.; Maier, F.; Sobota, M.; Schulz, P.S.; Stark, M.
+        *Adv. Mater.* **2011**, 23, 2571.
+
+.. _`{funcos} 1`: funcos1.shtml
+.. _`{funcos} 2`: funcos2.shtml
+.. _`{funcos} 3`: funcos3.shtml
+.. _`{funcos} 4`: funcos4.shtml
+.. _`{funcos} 5`: funcos5.shtml
+.. _`{funcos} 6`: funcos6.shtml
+

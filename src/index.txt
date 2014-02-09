@@ -1,0 +1,68 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Functional Molecular Structures on Complex Oxide Surfaces (FOR 1878)
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+.. role:: raw-html(raw)
+   :format: html
+
+
+The properties of ultra-thin layers of large organic molecules like porphyrins,
+phthalocyanines, and other tetrapyrroles on oxide and dielectric substrates
+offer potential applications in the fields of molecular electronics, solar
+energy conversion, catalysis, sensor development, and biointerfacial
+engineering. There is one common feature to all application-related research in
+these areas: The functional organic units constituting the organic films are
+synthesized with atomic precision but the oxide bonding sites, the interaction
+mechanisms, and the structure formation processes on the dielectric substrate
+remain poorly understood at the microscopic level. Some information on the
+interaction of functional groups with oxide surfaces is available for small
+molecules but the transfer to larger systems is entirely unexplored from a
+surface science perspective. Despite the practical relevance of the emerging
+field of organic/oxide interfaces, it is apparent that, from a surface science
+point of view, the research area is in its very infancy.
+
+.. raw:: html
+
+	<h4>“Our current knowledge ends at the interface”</h4>
+
+{img;../img/rp-phase2.png;Toward controlled growth on complex surfaces;right}
+The reason for this lack of understanding is the fact that a surface science
+approach to organic/oxide interfaces is outstandingly challenging, both for
+experiment and theory. Systematic investigations of the underlying physical and
+chemical interaction mechanisms require a broad spectrum of complementary
+expertise. Hence, {funcos} developed a systematic strategy addressing the
+fundamental understanding of functional organic/oxide interfaces.
+
+We chose prototype oxide surfaces as substrates that can be characterized at
+the atomic level. A broad spectrum of state-of-the-art experimental and
+theoretical surface science techniques is employed to unravel the interactions
+and growth mechanism of test molecules of reduced complexity with ideal oxide
+surfaces and defects. This atomic-level perspective allows us to build complex
+systems in a controlled fashion. Such systems include nanostructured
+multicomponent films on nanostructured oxide surfaces, supported nanoparticles,
+and oxide nanomaterials.
+
+
+Site Index
+----------
+
+- `Research Program <program.shtml>`_
+- `{funcos} Projects <projects/>`_
+
+  + `{funcos} 1: Local Atomic and Electronic Structure <projects/funcos1.shtml>`_
+  + `{funcos} 2: Spectroscopy and Electronic Structure <projects/funcos2.shtml>`_
+  + `{funcos} 3: Molecule–Oxide Bond Formation <projects/funcos3.shtml>`_
+  + `{funcos} 4: Growth and Self-Organization <projects/funcos4.shtml>`_
+  + `{funcos} 5: Oxide Nanostructures <projects/funcos5.shtml>`_
+  + `{funcos} 6: Theory Area <projects/funcos6.shtml>`_
+
+- `Toolboxes <toolboxes.shtml>`_
+- `Molecular Toolbox Pool <pool.shtml>`_
+- `People <people.shtml>`_
+- `Calendar <calendar.shtml>`_
+

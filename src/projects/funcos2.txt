@@ -1,0 +1,134 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Spectroscopy and Electronic Structure
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+- Project leader A: `Hans-Peter Steinrück <../people.shtml>`_
+- Project leader B: `Ole Lytken <../people.shtml>`_
+- Project leader C: `Thomas Fauster <../people.shtml>`_
+
+
+{img;../img/funcos2.png;right}  {funcos} 2 will focus on the electronic
+structure of functional organic molecules from the `{funcos} Molecular Toolbox
+<../toolboxes.shtml>`_ on well-defined oxide surfaces.  Key targets will be the
+electronic aspects of molecule–oxide interaction and of metal centers of
+adsorbed tetrapyrroles including their reactivity.  In particular, we will
+study how adsorption properties, electronic structure, and coordination
+behavior are affected by the functionalization of the macrocycle and by the
+interaction with specific surface sites, such as defects, steps, oxygen
+vacancies, or hydroxyl groups.  The characterization of the chemical
+interaction of small molecules with metal centers will provide a fundamental
+picture of electronic origins of structure–property relationships. 
+
+In this context, a second very important issue will be the dynamics of charge
+transfer, i.e. the lifetime of excited molecular states of the organic
+molecule.  Here, special focus will be on the modification of electronic
+structure and excited state lifetimes caused by different oxide thicknesses and
+different anchoring groups.  The valence band structure, unoccupied states, and
+the lifetimes of excited electrons will be studied by {acro;UPS} and
+{acro;2PPE} , the interaction of the metal centers with the oxide surface and
+with the coordinating small molecules will be determined from {acro;XPS}.  In
+addition, reactivity aspects, specifically related to the coordinated metal
+centers, will be addressed by temperature programmed reaction and desorption
+studies. 
+
+
+Objectives
+----------
+
+In {funcos} 2, {acro;XPS}, {acro;UPS} and {acro;2PPE} will be used to
+characterize the electronic structure and chemical properties of
+tetraphenylporphyrins adsorbed on MgO(100) thin films. We will focus on the
+preparation and characterization of well-ordered porphyrin layers, the
+reactivity of the metal center and the changes induced by the adsorption of
+small molecules on the metal center. We will link ultrahigh vacuum studies on
+well-defined surfaces to high surface area materials. We aim to: 
+
+- Study the **electronic properties of thin MgO(100) films** on Ag(100) as a
+  function of thickness.
+- **Create, identify, and quantify defects** on the MgO(100) films. 
+- Investigate the **interaction of tetraphenylporphyrin**, platinum and cobalt
+  tetraphenylporphyrin, and a functionalized platinum tetraphenylporphyrin
+  **with the MgO(100) surface**. Focus will be on changes in the N 1s, Pt 4f, Co
+  2p and valence band regions as the coverage is increased from submonolayers to
+  multilayers.
+- **Investigate simple reactions** with porphyrins on MgO(100) and extract
+  **kinetic parameters**. Focus will be on metalation and adsorption of CO, NO,
+  O\ :sub:`2`\ , O\ :sub:`3`\ , and H\ :sub:`2`\ S on the metal center and the
+  influence this has on the valence band.
+- **Characterize selected high surface area systems** from {funcos} 5 and
+  investigate to which extent they can be described by the results obtained from
+  the model systems.
+
+
+Systems and strategy
+--------------------
+
+Whereas `{funcos} 1`_ and `{funcos} 3`_ initially focus on the adsorption of
+small linker molecules from the `{funcos} Molecular Toolbox <../toolboxes.shtml>`_,
+we will focus on the metallotetrapyrole unit itself, especially the properties
+of the metal center and the four nitrogen atoms coordinating the metal center.
+We will first look at the adsorption of simple tetraphenylporphyrins on
+MgO(100), before we increase the complexity by studying a functionalized
+tetraphenylporphyrin.  The specific functionalization could be a carboxylic
+acid group, but will be chosen based on the results with small linker molecules
+from {funcos} 1 and 3.
+
+The studies will be carried out under {acro;UHV} on well-defined MgO(100) thin
+films grown on single-crystalline Ag(100).  Well-defined surfaces, with
+well-defined sites that can be modified in a well-defined manner are ideal
+substrates to develop a fundamental understanding of how metallotetrapyroles
+interact with different sites on oxide surfaces, such as terraces, steps, oxygen
+vacancies and surface hydroxyl groups.  This understanding will later prove
+critical in WP 3, where we approach the much more complicated nanostructured
+materials prepared in `{funcos} 5`_.  Since most of the {funcos}
+groups will initially use MgO(100) thin films as substrate, the growth studies
+will very much be a collaborative effort between the groups.
+
+For catalysis and sensor applications the adsorption of small molecules on the
+metal centers of porphyrins plays an important role, and we will study how the
+adsorption of CO, NO and H\ :sub:`2`\ S affect the electronic structure of the
+porphyrins.  The binding of O\ :sub:`2` and CO to iron porphyrin in hemoglobin
+is well known, and it has been observed that H\ :sub:`2`\ S can induce a
+hibernation-like state in mice, possibly through the binding of H\ :sub:`2`\ S
+to heme in complex IV (cytochrome c oxidase) [1]_, [2]_, [3]_.  We will
+furthermore extract the adsorption energies of the small molecules to the metal
+center, using {acro;TPD}, and even attempt to run simple reactions such as CO
+oxidation.
+
+The detailed characterization of homogeneous molecular layers on different
+oxidic substrates sets the stage for investigating, in great detail,
+electronically excited molecular states that play an important role in
+photochemistry and photovoltaics.  While on metal substrates the strong coupling
+to the substrate and the continuous electronic density of states lead to
+lifetimes of electronic excitations generally below 10 fs, the coupling and
+electron transfer to the substrate can be reduced by introducing insulating
+spacer layers such as oxides and much longer lifetimes are expected.
+{acro;TR}-{acro;2PPE} provides experimental information on the electronic
+structure of adsorbed molecules and the lifetimes of excited electrons.  The
+detailed knowledge of the electronic states and electron transfer processes is
+important for an understanding of the chemical and catalytic activity of
+functional molecular structures on complex oxide surfaces, which rely on the
+adsorption/reaction of small molecules at the metal center of the
+metallotetrapyrroles.  These results will complement the spectroscopic
+information obtained in `{funcos} 4`_.
+
+
+.. [1]  Wollschläger, J.; J. Viernow; C. Tegenkamp; D. Erdös; K.M. Schröder; H. Pfnür, 
+        *Appl. Surf. Sci.* **1999**, 142, 129–134.
+.. [2]  Ouvrard, A.; J. Niebauer; A. Ghalgaoui; C. Barth; C.R. Henry; B. Bourguignon,
+        *J. Phys. Chem. C* **2011**, 115, 8034–8041.
+.. [3]  Altieri, S.; L.H. Tjeng; G.A. Sawatzky,
+        *Phys. Rev. B* **2000**, 61, 16948–16955.
+
+.. _`{funcos} 1`: funcos1.shtml
+.. _`{funcos} 2`: funcos2.shtml
+.. _`{funcos} 3`: funcos3.shtml
+.. _`{funcos} 4`: funcos4.shtml
+.. _`{funcos} 5`: funcos5.shtml
+.. _`{funcos} 6`: funcos6.shtml
+

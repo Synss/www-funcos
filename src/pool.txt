@@ -1,0 +1,19 @@
+.. vim: syn=html
+
+restindex
+	page-title: Molecular Toolbox Pool
+	file-extension: shtml
+	format: html
+	initialheaderlevel: 2
+/restindex
+
+
+<p>Products available from <b>Andre Kaftan</b> (AG Libuda)</p>
+
+<p>EAM Neubau<br />
+   Egerlandstr. 3<br />
+   Office/Tel: U1.019/67502<br />
+   Lab/Tel: U1.014/67503<br />
+</p>
+
+<!--#include virtual="pool.php"-->

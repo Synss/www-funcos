@@ -1,0 +1,116 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Local Atomic and Electronic Structure
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+- Project Leader A: `Alexander Schneider <../people.shtml>`_
+- Project Leader B: `Sabine Maier <../people.shtml>`_
+
+
+{img;../img/funcos1.png;right}  In {funcos} 1, scanning probe methods
+({acro;STM} and {acro;AFM}) will be applied in {acro;UHV}.  A broad temperature
+range will be accessible from 5 to 300 K, ensuring that even weak
+molecule–oxide interactions can be studied.  Characterization of adsorption
+geometries and sites (e.g.  defects) will be feasible with atomic precision,
+also providing information on mobility and diffusion barriers.
+{acro;LT}-{acro;STS} will allow for investigating the molecular electronic
+structure.  {acro;AFM} will address molecules on non-conductive oxides that
+will be of relevance for direct correlation with nanostructured bulk oxides in
+`{funcos} 5`_.
+
+
+Objectives
+----------
+
+- Establish the **adsorption sites and geometries** of bare linker units and
+  porphyrins with added linker units on magnesium and cobalt oxides (thin film
+  or bulk), the influence of defects, oxide film thickness, and surface
+  termination.
+- Investigate the **electronic structure of individual porphyrins** on MgO and
+  cobalt oxide surfaces: frontier orbitals, local work function and charge
+  distribution.
+- Analyze the lateral homogeneity and **quality of self-assembled molecular
+  layers**.
+- Quantify the **energy barriers for diffusing molecules** on MgO and cobalt
+  oxide surfaces.
+
+The atomic scale insight provided in this project will clarify important
+mechanisms on the molecular level to achieve the {funcos} vision of functional
+landscaping of oxide surfaces.
+
+
+Systems and strategy
+--------------------
+
+{funcos} 1 employs {acro;STM} and {acro;AFM} in {acro;UHV}.  Oxide surfaces
+(MgO, CoO) will be prepared either by cleaving single crystals and suitable
+post-processing in {acro;UHV} or by growing well-defined oxide layers on clean
+metal surfaces in {acro;UHV} (e.g., MgO on Ag(100) and CoO on Ir(100)).
+Defects on the oxide surfaces will be deliberately introduced by ion
+bombardment.  After characterization of the oxide surfaces and their
+characteristic defects by {acro;AFM}, {acro;STM}, and also {acro;LEED},
+molecules will be deposited from the gas phase in {acro;UHV}.  If necessary,
+methods and parameters for bringing the various molecules into the gas phase
+under {acro;UHV} conditions will be developed in cooperation with our {funcos}
+partners.  Simple methods like thermal evaporation of molecular powders or
+dosing molecules from a liquid supply have been tested and used in the two
+workgroups of {funcos} 1.  With these methods the coverage of molecules can be
+chosen from sub-monolayer to the monolayer regime for studying the properties
+of individual adsorbed molecules but also of self-assembly and inter-molecular
+interaction.  Molecular adsorption can take place at temperatures ranging from
+40 to 1000 K.  Additionally various metals can be co-adsorbed.
+
+The molecules used in {funcos} 1 come from the `{funcos} Molecular Toolbox
+<../toolboxes.shtml>`_.  At the beginning of the project various {funcos} Test
+Molecules will be deposited on the oxide surfaces and their adsorption
+properties studied.  Since the molecules can only interact either via the
+functional group or the benzene π-system the relevant interaction can be
+properly determined.  In view of the {funcos} vision of functionalizing oxide
+surfaces by organic molecules the investigation of the interaction of
+porphyrins will consume the major share of the project duration.  The large
+molecules will allow a detailed mapping of electronic properties.
+
+As a start, we will consider singly functionalized molecules but for steering
+the self-assembly of these, multiply functionalized molecules will also be
+considered and chosen carefully after consultation with our {funcos} partners.
+Self-assembly processes will also be modified by adding metal atoms to the
+molecular overlayer in {acro;UHV}.  This can either be accomplished in
+simultaneous co-adsorption of molecules and metal atoms or by seeding oxide
+surfaces with metal atoms prior to molecular adsorption or by evaporation of
+metals onto an existing oxide–molecule system.  The setups will also allow
+co-adsorption of more than one molecular species, however, such experiments are
+not foreseen during the currently requested funding period.
+
+The molecular systems prepared will be transferred in situ to the scanning
+probe instruments primarily working at liquid helium temperatures for stability
+and sensitivity reasons.  However, working at other fix-point temperatures
+(liquid nitrogen and room temperature) and within temperature ranges of ~10 K
+around these fix-points is also possible.  {funcos} 1 workpackages WP 1 and WP
+2 require atomic- or molecular-scale lateral resolution of the molecule–oxide
+system, WP 3 makes use of spectroscopic methods.  The planned experiments
+require a extreme stability of the instruments but also of the adsorbate on the
+substrate surface that can only be guaranteed by a low-temperature environment. 
+
+Not only the starting point of the project (`{funcos} Showcase systems
+<../toolboxes.shtml>`_) but also the subsequent experiments will be conducted
+in close collaboration with other {funcos} groups to maximize the synergetic
+effect inherent in the complementarity of {funcos} methods.  {funcos} 1 will
+provide local site information to the other {funcos} projects and will help to
+unravel molecular configurations encountered in adsorption or self-assembly.
+Further, ensemble averaging structural and spectroscopic experiments carried
+out by the {funcos} partners and the support from theory in `{funcos} 6`_ will
+provide a solid ground on which the scanning probe experiments can be
+interpreted.
+
+
+.. _`{funcos} 1`: funcos1.shtml
+.. _`{funcos} 2`: funcos2.shtml
+.. _`{funcos} 3`: funcos3.shtml
+.. _`{funcos} 4`: funcos4.shtml
+.. _`{funcos} 5`: funcos5.shtml
+.. _`{funcos} 6`: funcos6.shtml
+

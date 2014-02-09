@@ -17,6 +17,8 @@ r2w.log
 r2w.py
 *.pyc
 
-# local directories
+# local files and directories
 template-rrze/
 website/
+private/
+src/template.txt

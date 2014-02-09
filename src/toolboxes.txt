@@ -1,0 +1,49 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Our System Library
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+The {funcos} strategy will bring together two principal fields of expertise:
+the surface science of oxide surfaces and the surface science of functional
+molecular films, both including theory and experiment.  In order to assure that
+research will be focused on common systems we have defined a **{funcos} Oxide
+Toolbox** and a **{funcos} Molecular Toolbox**.
+
+{funcos} Oxide Toolbox
+----------------------
+
+The idea of the {funcos} Oxide Toolbox is to provide a common set of model
+surfaces for all groups.  The toolbox defines the starting materials and the
+strategies for increasing complexity.  For all materials, we will start with
+ordered surfaces and systematically proceed to more complex systems by studying
+defect structures, deposited nanoparticles, and nanostructured oxides. 
+
+{funcos} Molecular Toolbox
+--------------------------
+
+The surfaces defined by the {funcos} Oxide Toolbox are then combined with the
+{funcos} Molecular Toolbox.  The {funcos} Molecular Toolbox specifies the
+molecules to be investigated and the strategy for their modification.  The
+molecules chosen are highly relevant to applications and provide exceptional
+chemical flexibility.  They are mostly easily accessible and can be synthesized
+by cooperating groups.  Moreover, they provide sufficient stability for surface
+science experiments.  As a second component, the {funcos} Molecular Toolbox
+contains a series of linker molecules with characteristic functional units.
+After studying the specific interaction of linkers using small test molecules,
+substituted functional molecules with linkers will be attached to the model
+surfaces.
+
+{funcos} Showcase Systems
+-------------------------
+
+The idea of {funcos} is to provide general concepts for growth, structure, and
+property control of organic films on oxides.  However, success of the research
+strategy has to be illustrated using specific examples at each project phase.
+These examples are the {funcos} Showcase Systems.  Very importantly, these
+Showcase Systems will also serve as a common guiding principle for coordinated
+research, thus ensuring common focus of the individual projects.
+

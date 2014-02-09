@@ -1,0 +1,30 @@
+.. vim: syn=rst
+
+restindex
+	page-title: People
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+Executive board
+---------------
+
+.. raw:: html
+
+	<!--#include virtual="board.php?firstname=Jörg&lastname=Libuda&role=Speaker&id=0"-->
+
+	<!--#include virtual="board.php?firstname=Andreas&lastname=Görling&role=Vice-Speaker&id=0"-->
+
+	<!--#include virtual="board.php?firstname=Mathias&lastname=Laurin&role=Coordinator and Webmaster&id=0"-->
+
+	<!--#include virtual="board.php?firstname=Sabine&lastname=Maier&role=Gender Equality&id=41032317"-->
+
+
+Principal Investigators
+-----------------------
+
+.. raw:: html
+
+	<!--#include virtual="people.php"-->
+

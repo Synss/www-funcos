@@ -1,0 +1,11 @@
+.. vim: syn=rst
+
+restindex
+	page-title: Fehler - Seite nicht verfügbar
+	file-extension: shtml
+/restindex
+
+
+Die aufgerufene Seite ist derzeit nicht verfügbar oder existiert nicht.
+
+

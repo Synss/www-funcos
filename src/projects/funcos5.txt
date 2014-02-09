@@ -1,0 +1,113 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Oxide Nanostructures
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+- Project leader A: `Oliver Diwald <../people.shtml>`_
+- Project leader B: `Patrik Schmuki <../people.shtml>`_
+- Project leader C: `Hubertus Marbach <../people.shtml>`_
+
+
+{img;../img/funcos5.png;right}  Oxide nanostructures often show modified cell
+parameters, composition, or morphology, providing access to new materials with
+novel properties.  Among the important aspects are size-dependent geometric and
+electronic properties, resulting in modified transport properties.  Also, inert
+oxides can become highly reactive when applied in highly dispersed form.  Guided
+by insights into local interaction mechanisms (`{funcos} 1`_, `{funcos} 2`_,
+and `{funcos} 3`_ and `{funcos} 6`_) and structure formation on planar surfaces
+(`{funcos} 4`_ and 6), {funcos} 5 aims at transferring the obtained knowledge to
+different types of oxide nanostructures.
+
+The participating workgroups have exceptional expertise with a broad range of
+preparation techniques for nanostructured oxide materials, including anodic
+oxidation of metal surfaces, {acro;FEBIP}, or {acro;CVS}.  Self-organized TiO\
+:sub:`2` nanotube layers on metal substrates can be obtained by electrochemical
+etching and represent a unique model system for monolayer attachment of organic
+molecules.  The use of electron beams represents an excellent and particularly
+clean tool to locally modify the properties of oxide materials.  Localized
+electron probes such as {acro;SEM} have made it possible to apply
+electron-induced processes at the nanometer scale and will be used to generate
+nanostructures with lithographic control.  Finally, {acro;CVS} at reduced
+pressure is particularly well suited for the production of metal oxide
+nanocrystals with small size and narrow size distribution.  The comparison
+between vacuum sublimation and solution deposition of organic molecules will
+reveal the key mechanisms of binding and structure formation.  Comparison of
+differently prepared systems with different surface structure will provide
+information on specific molecule–substrate interactions.  Moreover,
+investigations of particle–particle interaction effects and the effect of the
+reaction environment will allow for a more general understanding of
+organic/oxide surface chemistry under realistic conditions. 
+
+
+Objectives
+----------
+
+{funcos} 5 aims at the transfer of atomic level insights obtained by surface
+science techniques on plane and atomically clean surfaces ({funcos} 1–3) to 3D
+high surface area materials, which—in terms of structure and chemical
+composition—are significantly more complex. Oxide nano-structures—with and
+without supporting substrates—will be established as complementary model
+systems for {funcos} adsorption studies. The major goals of {funcos} 5 are
+
+- the **fabrication of oxide nanostructures** with increasing complexity by
+  different synthesis and preparation routes for metal oxide substrates of
+  defined shape and controlled spatial arrangement;
+- the investigation of the **adsorption behavior of functional molecules on
+  oxide nanostructures**;
+- the **design of complex molecule–oxide interface structures** including the
+  generation of radiation induced defects as means to control adsorption.
+
+
+Systems and strategy
+--------------------
+
+Morphologically different MgO, TiO\ :sub:`2` and CoO\ :sub:`x` nanostructures
+will be employed.  For their fabrication different routes such as anodic
+oxidation of metal surfaces, {acro;FEBIP} or {acro;CVS} in conjunction with
+deposition approaches to generate textured nanocrystal layers will be applied.
+Different morphologies and microstructures will be employed.  These will range
+from nanocrystal ensembles at various stages of aggregation and texturing,
+through nanotubular metal oxide arrangements of adjustable pore orientation and
+connectivities to compact metal oxide films deposited under {acro;UHV}
+conditions.  It is the starting point of {funcos} 5 to make use of synthesis and
+preparation routes that are already established in the other groups to further
+develop them for the generation of thin films and particle based nanostructures
+of controlled spatial arrangement.
+
+The adsorption behavior of these structures toward functional molecules as well
+as the impact of defects thereon will be of central interest.  We will search
+for preferred adsorption sites on the above-mentioned nanostructures and will
+compare differences in the adsorption of liquids in vacuum as well as in liquid
+phases.  Adsorption-induced changes in the electronic, magnetic and catalytic
+properties will be addressed with spectroscopy.  This part of the project will
+also include the characterization of photo-electrochemical reactivity and
+photoluminescence properties of the as synthesized as well as of
+adsorbate-covered TiO\ :sub:`2`, MgO and CoO\ :sub:`x` nanostructures. As an
+extension to nanostructure fabrication we will study the effect of radiation of
+different energy and nature on nanostructures as means to increase control over
+nanostructure growth and functionalization.  For this purpose, we will employ
+sample exposure to photons, electrons and ions (three-beams concept) in order to
+generate selected surface elements as adsorption sites for molecules in the
+`{funcos} Molecular Toolbox`_.  The radiation induced generation of defects,
+e.g.  point defects that arise from local oxygen deficiencies or vacancy
+interstitial pairs, will be of interest for the introduction of new adsorption
+sites on the surface of oxide nanostructures.  Ultimately, we aim at the
+rational design of oxide nanostructures, i.e. the establishment of optimized
+synthesis and engineering protocols to generate nanostructured templates for the
+site selective adsorption of functional molecules from the `{funcos} molecular
+toolbox`_.
+
+.. _`{funcos} Molecular Toolbox`: ../toolboxes.shtml
+
+
+.. _`{funcos} 1`: funcos1.shtml
+.. _`{funcos} 2`: funcos2.shtml
+.. _`{funcos} 3`: funcos3.shtml
+.. _`{funcos} 4`: funcos4.shtml
+.. _`{funcos} 5`: funcos5.shtml
+.. _`{funcos} 6`: funcos6.shtml
+

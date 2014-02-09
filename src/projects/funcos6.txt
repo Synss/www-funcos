@@ -1,0 +1,129 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Theory
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+- Project leader A: `Andreas Görling <../people.shtml>`_
+- Project leader B: `Michel Bockstedte <../people.shtml>`_
+- Project leader C: `Bernd Meyer <../people.shtml>`_
+
+
+Domain I: Molecular Bonding and Spectroscopic Signatures
+--------------------------------------------------------
+
+{img;../img/funcos6.png;right}  First-principles methods, specifically based on
+{acro;DFT}, shall be used to determine adsorption geometries and energies for
+molecules on pristine, defective, and pre-structured oxide surfaces (`{funcos}
+Molecular and Oxide Toolboxes <../toolboxes.shtml>`_).  Calculations of energy
+landscapes will provide first insight into geometric structures of adsorbate
+systems and related interaction mechanisms.  Systematic studies of binding
+properties will support the experiments in `{funcos} 1`_ and `{funcos} 3`_ to
+identify linker groups with selective bonding to specific sites.  Vibrational
+frequencies will be calculated and used to interpret {acro;IRAS} data obtained
+in {funcos} 3.  Also, {acro;XPS} chemical shifts will be predicted and compared
+to those measured in `{funcos} 2`_ and 3.  Moreover, {acro;STM} and {acro;AFM}
+images from {funcos} 1 will be simulated based on structures, orbitals, and
+eigenvalues obtained in {acro;DFT} calculations. The interplay of Domain I with
+{funcos} 1 and {funcos} 3 shall result in a comprehensive characterization and
+understanding of basic adsorbate–substrate interactions of organic molecules on
+oxides.
+
+
+Domain II: Excited States and Photoexcitations
+----------------------------------------------
+
+The electronic structure and photophysics of molecules (`{funcos} Molecular
+Toolbox`_) adsorbed on oxides (`{funcos} Oxide Toolbox`_) will be investigated
+by first-principles methods within the framework of {acro;DFT}, time-dependent
+{acro;DFT}, and many body perturbation theory within GW and BSE approaches.
+Electron transfer processes between the adsorbate and the metal oxide shall be
+analyzed based on calculated quasiparticle spectra and excited states including
+their lifetime.  The resulting insights into electronic structure will provide a
+microscopic understanding of the effect of linker groups on excited state
+properties and on electron transfer processes (investigated in `{funcos} 2`_).
+Electron transfer with metal oxides may also include low-coordinated surface
+sites (e.g. oxygen vacancies and steps) as sinks or sources of electrons.
+Adsorbates interacting with such sites may show distinct electron transfer and
+optical properties; aspects that shall be included in photophysical
+investigations.  The latter will be closely linked with {funcos} 2 and will
+contribute to optical characterization in `{funcos} 5`_.  It will build on
+insights from `{funcos} 1`_ and the other domains of {funcos} 6. 
+
+
+Domain III: Intermolecular Interactions and Structure Formation
+---------------------------------------------------------------
+
+Domain III will focus on understanding growth processes and structure formation.
+{acro;DFT} calculations on aggregates of small test molecules (`{funcos}
+Molecular Toolbox`_) with linker groups shall yield first information on basic
+adsorbate–adsorbate interactions (direct or substrate mediated), in parallel
+with experimental studies in `{funcos} 1`_, `{funcos} 2`_ and `{funcos} 3`_.
+These calculations will be extended to assemblies of larger organic molecules
+(e.g. porphyrins, `{funcos} Showcases`_) using semiempirical, parameterized
+tight-binding methods, supplemented by empirical force field terms to take into
+account van-der-Waals interactions.  The coverage dependence of binding energies
+and geometries will yield information on intermolecular interactions in relation
+to the direct molecule–substrate bonding.  We aim at providing guidelines for
+`{funcos} 4`_ and `{funcos} 5`_ on how to control structure formation and
+self-organization in adsorbate layers by linker or spacer groups.  From an
+analysis of the thermodynamic stability of layer structures it can be deduced
+how film formation may be influenced by the preparation conditions.  This also
+includes, for instance, surface reduction or hydroxylation as a result of the
+environmental conditions during growth.  Finally, transition states will be
+calculated in order to obtain insight into the kinetics of early stages of
+structure formation, growth, and self-organization, experimentally investigated
+in {funcos} 4 and 5.
+
+.. _`{funcos} Showcases` : ../toolboxes.shtml
+
+
+Objectives
+----------
+
+The proposed theory project aims at a comprehensive theoretical understanding
+at the microscopic, i.e., quantum mechanical, level of the adsorbate-substrate
+and adsorbate-adsorbate interactions of functionalized organic molecules on
+structured oxide surfaces, which eventually shall enable controlled formation
+of organic films with specific structural, electronic and optical properties
+and rationally designed functionalities in areas such as catalysis, sensoring,
+or photo-chemistry.  To that end methods based on {acro;DFT} supplemented by
+means to treat Van-der-Waals interactions and, where necessary, strong
+correlation shall be applied.  For large systems {acro;DFT}-derived
+semi-empirical tight-binding methods shall be employed.  Specifically, we aim
+at understanding
+
+- **adsorbate–substrate interactions of organic test molecules**, e.g, benzene
+  derivatives with different linker groups, with pristine oxide surfaces and
+  with low-coordinated sites on structured oxide substrates;
+- **adsorbate–substrate interactions of larger functionalized (metal)organic
+  molecules**, e.g., metalloporphyrines, with pristine and defective oxide
+  surfaces;
+- **charge transfer processes and modifications of electronic and optical
+  properties of functionalized organic molecules** upon adsorption on structured
+  oxide surfaces;
+- **adsorbate-adsorbate interactions of functionalized organic molecules** on
+  structured oxide surfaces;
+- **spectroscopic and imaging data (IRAS, XPS, STM, STS, AFM, EPR, or 2PPE)** by
+  analyzing and simulating experimental data on the basis of electronic
+  structure calculations;
+- how the **formation of functional surface structures** depends on the
+  interplay of adsorbate-substrate and adsorbate-adsorbate interactions of
+  functionalized organic molecules on structured oxide surfaces;
+- the **reaction and activation of small molecules** with metalorganic molecules
+  like metalloporphyrins arranged on a structured oxide surface.
+
+
+.. _`{funcos} Molecular Toolbox` : ../toolboxes.shtml
+.. _`{funcos} Oxide Toolbox` : ../toolboxes.shtml
+
+.. _`{funcos} 1`: funcos1.shtml
+.. _`{funcos} 2`: funcos2.shtml
+.. _`{funcos} 3`: funcos3.shtml
+.. _`{funcos} 4`: funcos4.shtml
+.. _`{funcos} 5`: funcos5.shtml
+.. _`{funcos} 6`: funcos6.shtml
+

@@ -1,0 +1,96 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+	page-title: Research Areas
+	file-extension: shtml
+	initialheaderlevel: 2
+/restindex
+
+
+.. image:: ../img/structure.png
+   :alt: funCOS structure
+   :align: center
+
+
+Molecular Interactions Area
+---------------------------
+
+Three specific projects constitute the *Molecular Interactions Area*.  These
+projects are targeting the experimental investigation of local
+molecule–molecule and molecule–oxide interactions, primarily in ideal
+{acro;UHV} environment.  They address the key issues in experimental surface
+science: the microscopic surface structure ({funcos} 1), the electronic surface
+structure ({funcos} 2), and the local surface chemistry ({funcos} 3).
+
+
+- `{funcos} 1: Local Atomic and Electronic Structure <funcos1.shtml>`_
+- `{funcos} 2: Spectroscopy and Electronic Structure <funcos2.shtml>`_
+- `{funcos} 3: Molecule–Oxide Bond Formation <funcos3.shtml>`_
+
+
+Structure Formation Area
+------------------------
+
+Based on the thorough understanding of microscopic interaction, the second
+operational area of {funcos} will address structure formation.  Two main targets
+are identified:
+
+- An in-depth understanding of structure formation of functional organic films
+  on oxide surfaces and nanostructures based on tailored molecule–substrate and
+  molecule–molecule interactions.
+- The controlled fabrication of molecular films on oxide nanostructures,
+  leading to composites with tailored structural, electronic, and chemical
+  properties.
+
+Corresponding activities will include the structural investigation of organic
+adlayers on long-range ordered surfaces and their evolution upon adsorption
+({funcos} 4) and on more complex metal oxide substrates, such as oxide
+nanostructures ({funcos} 5).  A detailed exploration of the mechanisms of
+structure formation will lead to substantially new insights into the
+fundamental principles of supramolecular ordering at dimensions ranging from
+nanometer-sized aggregates to objects at the mesoscale.  Moreover, the
+*Structure Formation Area* will contribute to a better understanding of
+structure formation and to establishment of structure–property relationships up
+to significantly enhanced complexity.  Based on the local picture from the
+`Molecular Interactions Area`_ these activities will facilitate the controlled
+fabrication of complex molecular architectures on oxide supports. 
+
+- `{funcos} 4: Growth and Self-Organization <funcos4.shtml>`_
+- `{funcos} 5: Oxide Nanostructures <funcos5.shtml>`_
+
+
+Theory Area
+-----------
+
+Close interlinking between the experimental projects and the *Theory Area* is
+vital within {funcos}.  Therefore, each project in the `Molecular Interactions
+Area`_ and the `Structure Formation Area`_ is related to its counterpart
+activities in the *Theory Area*.  This coordinated interplay will be the key to
+understand functional molecular structures on oxides at the level of detail
+that we are aiming at.
+
+The *Theory Area* consists of three domains.  **Domain I: Molecular Bonding and
+Spectroscopic Signatures** investigates the basic adsorption properties of
+molecules on oxide surfaces (`{funcos} Oxide Toolbox <../toolboxes.shtml>`_).
+Besides ground state geometric and electronic structures, spectroscopic
+({acro;IRAS}, {acro;XPS}, {acro;STS}) and imaging ({acro;STM}) data shall be
+considered.  **Domain II: Excited States and Photoexcitation** investigates
+electronic excitations of adsorbate structures and their coupling to the metal
+oxide.  In addition to excitation spectra, the lifetime of excited states will
+elucidate the dynamics of electron transfer processes.  **Domain III:
+Intermolecular Interactions and Structure Formation** is concerned with
+adsorbate arrangements, from simple to nanostructured films.  The interplay of
+adsorbate–substrate and adsorbate–adsorbate interactions during structure
+formation shall be investigated, also including the role of surface defects,
+structuring, and the interaction with small molecules.  By proceeding from
+basic interaction mechanisms to complex film structures and properties, the
+*Theory Area* shall provide a microscopic-level understanding at each
+individual step and, thus, will help to establish the design rules that
+{funcos} is aiming for.
+
+
+- `{funcos} 6: Molecular Bonding and Spectroscopic Signatures <funcos6.shtml#domain-i-molecular-bonding-and-spectroscopic-signatures>`_
+- `{funcos} 6: Excited States and Photoexcitations <funcos6.shtml#domain-ii-excited-states-and-photoexcitations>`_
+- `{funcos} 6: Intermolecular Interactions and Structure Formation <funcos6.shtml#domain-iii-intermolecular-interactions-and-structure-formation>`_
+
+

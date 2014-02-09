@@ -1,0 +1,12 @@
+.. vim: syn=rst:spell:spelllang=en_us
+
+restindex
+    page-title: Calendar
+	file-extension: shtml
+	format: html
+/restindex
+
+<p>You can subscribe to this <a href="http://groupware.fau.de/owa/calendar/mathias.laurin@fau.de/funCOS/calendar.ics">calendar.ics</a>.</p>
+
+<!--#include virtual="/vkdaten/tools/kalender/kalender.php"-->
+

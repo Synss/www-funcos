@@ -1,0 +1,22 @@
+.. vim: syn=rst
+
+restindex
+	page-title: Fehler - Seite nicht abrufbar
+	file-extension: shtml
+/restindex
+
+
+Der Zugriff auf das von Ihnen gewählte Dokument kann derzeit nicht gewährt
+werden.
+
+Dies kann mehrere Ursachen haben:
+
+- Der Zugriff auf die Dateien oder Verzeichnisse ist nur gegen Eingabe einer
+  gültigen Kennung und eines Passworts möglich.
+  Wenn dies der Fall ist, sie jedoch ein berechtigtes Interesse an die
+  geschützten Dokumente haben, setzen Sie sich bitte mit dem Autoren in Kontakt,
+  die auf die Dokumente verweisen.  Sie erhalten von diesen dann die
+  entsprechenden Zugangsdaten.
+- Das gewählte Dokument wird derzeit umgebaut und muss deswegen geschützt
+  werden.
+

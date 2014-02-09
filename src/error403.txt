@@ -1,0 +1,14 @@
+.. vim: syn=rst
+
+restindex
+	page-title: Error 403: Access Forbidden
+	file-extension: shtml
+/restindex
+
+
+You do not have access to this page.
+
+
+If you think this is an error, contact the administrator of the site.
+
+
