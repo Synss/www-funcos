@@ -33,6 +33,23 @@ CREATE VIEW pool AS
         NATURAL JOIN casurl_lookup
     ORDER BY product.name;
 
+/*  2014-10-23
+ *
+ *  Add product quantity to product table.
+ *
+ */
+
+CREATE TABLE unit_lookup (
+    unit     varchar(2) PRIMARY KEY
+);
+
+INSERT INTO unit_lookup VALUES
+    ('mg'),
+    ('mL');
+
+ALTER TABLE product ADD COLUMN quantity int;
+ALTER TABLE product ADD COLUMN unit varchar(2) REFERENCES unit_lookup(unit);
+
 /*
 # SQLITE
 
