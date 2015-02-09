@@ -99,6 +99,53 @@ CREATE VIEW stock AS
         GROUP BY p.name, u.unit
         HAVING sum(q.quantity) != 0;
 
+/*  2015-02-10
+ *
+ *  Normalize product name.
+ *
+ */
+
+ -- create table for name aliases
+
+CREATE TABLE product_alias (
+	name	text	REFERENCES product(name) ON UPDATE CASCADE,
+	aliases text[]
+);
+
+INSERT INTO product_alias(name)
+	SELECT name FROM product
+	WHERE name LIKE '%(%)' AND name NOT LIKE '%I)';
+
+-- create helper view with formatted extended_name
+
+CREATE VIEW name_with_aliases AS
+	SELECT a.name, CAST(a.name || ' (' ||
+                        array_to_string(a.aliases, ' ,') || ')' AS varchar)
+                   AS extended_name
+	FROM product_alias a
+	UNION
+	SELECT p.name, p.name AS full_name
+	FROM product p
+	WHERE p.name NOT IN (SELECT a.name FROM product_alias a);
+
+-- update pool to display extended_name
+
+CREATE OR REPLACE VIEW pool AS
+    SELECT x.extended_name AS name,
+           p.formula,
+           p.cas_nbr,
+           replace(cu.url_mask,
+                   '%s',
+                   p.cas_nbr) AS cas_url
+    FROM product p,
+		 name_with_aliases x,
+	     casurl_lookup cu,
+		 casnumber_lookup cn
+	WHERE (p.name = x.name AND
+		   p.cas_nbr = cn.cas_nbr AND
+		   cu.url_id = cn.url_id)
+    ORDER BY p.name;
+
 /*
 # SQLITE
 
