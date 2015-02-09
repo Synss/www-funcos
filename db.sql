@@ -93,14 +93,11 @@ ALTER TABLE product
 -- summarize stock in a view
 
 CREATE VIEW stock AS
-    SELECT product.name,
-        sum(product_quantity.quantity) AS qty,
-        unit_lookup.unit
-        FROM product_quantity
-        JOIN product ON product_quantity.name = product.name
-        NATURAL JOIN unit_lookup
-        GROUP BY product.name, unit_lookup.unit
-        HAVING sum(product_quantity.quantity) != 0;
+    SELECT p.name, sum(q.quantity) AS qty, u.unit
+        FROM product p, product_quantity q, unit_lookup u
+        WHERE (q.name = p.name AND p.state = u.state)
+        GROUP BY p.name, u.unit
+        HAVING sum(q.quantity) != 0;
 
 /*
 # SQLITE
