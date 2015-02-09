@@ -50,6 +50,58 @@ INSERT INTO unit_lookup VALUES
 ALTER TABLE product ADD COLUMN quantity int;
 ALTER TABLE product ADD COLUMN unit varchar(2) REFERENCES unit_lookup(unit);
 
+/*  2015-02-09
+ *
+ *  Refactor product quantity to its own table.
+ *
+ */
+
+ALTER TABLE unit_lookup
+    ADD COLUMN state text UNIQUE;
+
+UPDATE unit_lookup
+SET state = 'solid' WHERE unit = 'mg';
+
+UPDATE unit_lookup
+SET state = 'liquid' WHERE unit = 'mL';
+
+-- save state in product
+
+ALTER TABLE product
+    ADD COLUMN state text REFERENCES unit_lookup(state);
+
+UPDATE product
+    SET state = unit_lookup.state
+    FROM unit_lookup
+    WHERE product.unit = unit_lookup.unit;
+
+-- move quantity out of product
+
+CREATE TABLE product_quantity (
+    name      varchar   REFERENCES product(name) ON UPDATE CASCADE,
+    quantity  int       DEFAULT 0
+);
+
+INSERT INTO product_quantity
+    SELECT name, quantity
+    FROM product;
+
+ALTER TABLE product
+    DROP COLUMN quantity,
+    DROP COLUMN unit;
+
+-- summarize stock in a view
+
+CREATE VIEW stock AS
+    SELECT product.name,
+        sum(product_quantity.quantity) AS qty,
+        unit_lookup.unit
+        FROM product_quantity
+        JOIN product ON product_quantity.name = product.name
+        NATURAL JOIN unit_lookup
+        GROUP BY product.name, unit_lookup.unit
+        HAVING sum(product_quantity.quantity) != 0;
+
 /*
 # SQLITE
 
