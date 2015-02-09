@@ -1,0 +1,12 @@
+acetonitrile;CH3CN;75-05-8
+benzoic acid;C6H5CO2H;65-85-0
+benzoic acid-2,3,4,5,6-d5;C6D5CO2H;1079-02-3
+benzonitrile;C6H5CN;100-47-0
+meso-tetraphenylporphyrin;C44H30N4;917-23-7
+meso-tetraphenylporphyrin-Mg(II);C44H28MgN4;0-0-0
+meso-tetraphenylporphyrin-Pt(II);C44H28N4Pd;0-0-0
+phenol;C6H6OH;108-95-2
+phenol-d6;C6D6OD;13127-88-3
+phenylamine (aniline);C6H5NH2;62-53-3
+phenylamine-d7;C6D5ND2;14545-23-4
+
